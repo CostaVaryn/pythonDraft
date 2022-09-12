@@ -12,12 +12,14 @@ Output:
 NO
 '''
 
-import sys
-word = sys.stdin.readline()
-words = sys.stdin.readline()
-def anagrams(word, words): return "YES" if sorted(word)==sorted(words) else "NO"
-print(anagrams(word, words))
-
+def anagrams(word, words):
+    return sorted(word) == sorted(words)
+word = input()
+words = input()
+if anagrams (word, words):
+    print('YES')
+else:
+    print ('NO')
 
 '''
 valide code
