@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ec70bdf-9b09-4d8e-93db-794d0a304967" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Anagramma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/BreakPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/BuySell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/CanonPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/CharacterReplacement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/ConstructionOfLadders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/CowsAndStalls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/DifferenceInTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Majority.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Rejection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/RepeatingNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/TwoOutOfThree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/__init__.py" afterDir="false" />
+    <list default="true" id="1ec70bdf-9b09-4d8e-93db-794d0a304967" name="Changes" comment="add TwoOutOfThree.py">
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework3/BoomersAndZoomers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework3/BrewPotions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework3/PositiveNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/homework4/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Anagramma.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework3/Anagramma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/CharacterReplacement.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework2/CharacterReplacement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/CowsAndStalls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework3/CowsAndStalls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Majority.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework2/Majority.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Rejection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework2/Rejection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/RepeatingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework2/RepeatingNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/TwoOutOfThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework2/TwoOutOfThree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/homework1/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +56,14 @@
       <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Python\Scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework2" />
+      <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework1" />
+      <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework3" />
+      <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework4" />
       <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Python\Scripts\tests" />
-      <recent name="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CowsAndStalls">
+  <component name="RunManager" selected="Python.BrewPotions">
     <configuration name="Anagramma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDraft" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Anagramma.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework3\Anagramma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CharacterReplacement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BoomersAndZoomers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDraft" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +97,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/CharacterReplacement.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework3\BoomersAndZoomers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BrewPotions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonDraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework3\BrewPotions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,28 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/CowsAndStalls.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Majority" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonDraft" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Majority.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework3\CowsAndStalls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Rejection.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cosva\IdeaProjects\Python\pythonDraft\venv\Scripts\homework2\Rejection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CowsAndStalls" />
+        <item itemvalue="Python.BrewPotions" />
+        <item itemvalue="Python.BoomersAndZoomers" />
         <item itemvalue="Python.Anagramma" />
+        <item itemvalue="Python.CowsAndStalls" />
         <item itemvalue="Python.Rejection" />
-        <item itemvalue="Python.Majority" />
-        <item itemvalue="Python.CharacterReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +230,105 @@
       <option name="project" value="LOCAL" />
       <updated>1662461209558</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update workspace.xml">
+      <created>1662626517979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626517979</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add __init__.py">
+      <created>1662626528486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626528486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Anagramma.py">
+      <created>1662626536698</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626536698</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add BreakPalindrome.py">
+      <created>1662626547142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626547142</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add BuySell.py">
+      <created>1662626555084</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626555084</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add CanonPath.py">
+      <created>1662626563278</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626563278</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add CharacterReplacement.py">
+      <created>1662626627023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626627023</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add ConstructionOfLadders.py">
+      <created>1662626637127</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626637127</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add CowsAndStalls.py">
+      <created>1662626654019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626654019</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add DifferenceInTime.py">
+      <created>1662626661513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626661513</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add Majority.py">
+      <created>1662626670753</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626670753</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add Rejection.py">
+      <created>1662626680758</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626680758</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add RepeatingNumber.py">
+      <created>1662626689072</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626689072</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add TwoOutOfThree.py">
+      <created>1662626697617</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626697617</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +347,19 @@
     <MESSAGE value="add test.py" />
     <MESSAGE value="update test.py" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="add __init__.py" />
+    <MESSAGE value="add Anagramma.py" />
+    <MESSAGE value="add BreakPalindrome.py" />
+    <MESSAGE value="add BuySell.py" />
+    <MESSAGE value="add CanonPath.py" />
+    <MESSAGE value="add CharacterReplacement.py" />
+    <MESSAGE value="add ConstructionOfLadders.py" />
+    <MESSAGE value="add CowsAndStalls.py" />
+    <MESSAGE value="add DifferenceInTime.py" />
+    <MESSAGE value="add Majority.py" />
+    <MESSAGE value="add Rejection.py" />
+    <MESSAGE value="add RepeatingNumber.py" />
+    <MESSAGE value="add TwoOutOfThree.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TwoOutOfThree.py" />
   </component>
 </project>
